@@ -2,15 +2,29 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "lucdinh.github.io",
+    "title": "Luke Dinh",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Hi! My name is Luc Dinh (Luke), Welcome to my personal website!!! I am a senior Data Science/ Math Student at CU Denver. I always like to work and mess around with technology, especially if they are fun and exciting. which is also why I love Machine Learning, Deep Learning and AI so much I decided to study Data Science. I hope that after I graduate, I will have the opportunity to work and learn even more on how to build such amazing models and apply data science knowledge for the best insights\n\n\n\nMachine Learning\nOCR Models\nComputer Vision\nCNN\nData Wrangling and Visualization\n\n\n\n\n\nGAMING\n\nI am a big offline games, for online game my favorite professional players are Faker and Gumayusi \n\nEXPLORING\nMOVIES\nCOOKING"
   },
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Luke About Page",
+    "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html#skills",
+    "href": "index.html#skills",
+    "title": "Luke Dinh",
+    "section": "",
+    "text": "Machine Learning\nOCR Models\nComputer Vision\nCNN\nData Wrangling and Visualization"
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Luke Dinh",
+    "section": "",
+    "text": "GAMING\n\nI am a big offline games, for online game my favorite professional players are Faker and Gumayusi \n\nEXPLORING\nMOVIES\nCOOKING"
   }
 ]

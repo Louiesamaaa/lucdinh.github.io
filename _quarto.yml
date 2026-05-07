@@ -3,17 +3,17 @@ project:
   output-dir: docs
 
 website:
-  title: "LukeDinh"
+  title: "Luke Dinh"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+ #     - about.qmd
 
 format:
   html:
     theme:
-      - cosmo
+      - vapor
       - brand
     css: styles.css
     toc: true
